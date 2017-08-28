@@ -1,7 +1,5 @@
 package com.mindriot.fps
 
-package com.mindriot.fps
-
 import org.scalatest.WordSpec
 import org.scalatest.Matchers
 
